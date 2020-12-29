@@ -178,7 +178,7 @@ body {
 
 @media (min-width:375px) {
     .body {
-        margin: 20px;
+        margin: 3rem;
     }
 
     .quotes {
